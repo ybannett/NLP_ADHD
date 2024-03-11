@@ -6,7 +6,7 @@ The National Institute for Children’s Health Quality has recognized that quali
 
 # Project Summary:
 
-This project aims to leverage natural language processing (NLP) and machine learning (ML) models to improve the measurement of quality-of-care offered to children with developmental and behavioral disorders, including ADHD. We created a pipeline and binary classification algorithm based on a BERT transformer that achieved acceptable performance in classifying clinician notes that contained recommendations for evidence-based treatments for young children with ADHD. We also deployed the model on the unannotated deployment set (n=1,020 notes), which gave us a recall of 0.92. 
+This project aims to leverage natural language processing (NLP) and machine learning (ML) models to improve the measurement of quality-of-care offered to children with developmental and behavioral disorders, including ADHD. We created a pipeline and binary classification algorithm based on a BERT transformer that achieved acceptable performance in classifying clinician notes that contained recommendations for parent training in behavior management (PTBM) - an evidence-based behavioral treatment for young children with ADHD. We also deployed the model on the unannotated deployment set (n=1,020 notes), acheiving a recall of 0.92. 
 
 # Dataset:
 
